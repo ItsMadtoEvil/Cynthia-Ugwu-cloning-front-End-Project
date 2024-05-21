@@ -180,6 +180,7 @@ html, body{
     text-decoration: none;
     border-radius: 100px;
     font-size: 12px;
+    white-space: nowrap;
 }
 #sub{
     color: white;

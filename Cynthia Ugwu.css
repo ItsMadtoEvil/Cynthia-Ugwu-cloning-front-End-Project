@@ -4,6 +4,15 @@
   font-family: "General Sans";
 }
 @font-face {
+    font-family: "General Sans Medium";
+    src: url("https://db.onlinewebfonts.com/t/25c8b884ca555f338df57a70ee6d539c.eot");
+    src: url("https://db.onlinewebfonts.com/t/25c8b884ca555f338df57a70ee6d539c.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/25c8b884ca555f338df57a70ee6d539c.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/25c8b884ca555f338df57a70ee6d539c.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/25c8b884ca555f338df57a70ee6d539c.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/25c8b884ca555f338df57a70ee6d539c.svg#General Sans Medium")format("svg");
+}
+@font-face {
   font-family: "GeneralSans-Medium";
   src: url("GeneralSans-Medium.woff2") format("woff2"),
     url("GeneralSans-Medium.woff") format("woff"),
